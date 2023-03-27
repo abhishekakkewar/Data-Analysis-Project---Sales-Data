@@ -1,8 +1,15 @@
+# Folder contains
+1. Python file
+2. Data set
+3. Power BI report
+4. PDF file of jupyter notebook 
+
+
 # Business Problem Statement
-   1. Increase Profit
-   2. Reduce cost
+   1. How to increase Profit
+   2. How to Reduce cost
 # Assumption
-   1. Provided data is right
+   1. Provided data does not have any outlier
 # Research Question
    1. What variables that affect profit
    2. How can we increase profit and sales
@@ -11,5 +18,6 @@
 # Hypothesis
    1. Profit increases with increase the Discount
 # Analysis and finding
+    check python file
 # Conclusion
    1. Need to focus on other segment than 'Goverment' Segment
