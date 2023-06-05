@@ -11,7 +11,7 @@
 # Assumption
    1. Provided data does not have any outlier
 # Research Question
-   1. What variables that affect profit
+   1. WHich variables are affecting profit
    2. How can we increase profit and sales
    3. Which Product is giving maximum profit
    4. Maximum sales from which city
